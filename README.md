@@ -1,4 +1,7 @@
 ![badapple](https://i.postimg.cc/d3mt0L3k/ezgif-com-animated-gif-maker.gif)
+<p align="center">
+  <img src="https://i.postimg.cc/yd16Q0T8/507b3526881cfba036128e3d217305ea.jpg" alt="Mô tả ảnh" width="300">
+</p>
 
 <!--
 **OLD-D0LL/OLD-D0LL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
