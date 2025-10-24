@@ -1,4 +1,4 @@
-![badapple]([![df96dde688b52428d662a2cda33f2ec8.gif](https://i.postimg.cc/xTr8YVsm/df96dde688b52428d662a2cda33f2ec8.gif)](https://postimg.cc/9zpCtKHX))
+![badapple](https://i.postimg.cc/xTr8YVsm/df96dde688b52428d662a2cda33f2ec8.gif)
 
 <!--
 **OLD-D0LL/OLD-D0LL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
