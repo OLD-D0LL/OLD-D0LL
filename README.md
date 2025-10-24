@@ -1,4 +1,4 @@
-https://ibb.co/Xryjt1js
+![light](https://pin.it/22YTTKuhb)
 
 <!--
 **OLD-D0LL/OLD-D0LL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
