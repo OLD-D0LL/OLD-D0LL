@@ -1,5 +1,5 @@
 <div align="center">
-  ![badapple](https://i.postimg.cc/25HJFmbj/df96dde688b52428d662a2cda33f2ec8.gif)
+  <img src="https://github.com/user-attachments/assets/b7cc1eea-3d1a-48fe-bf09-f81e17dcd59e" alt="CŨ-DOLL gif" width="400">
 </div>
 
 
