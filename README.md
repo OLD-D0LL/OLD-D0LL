@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OLD-D0LL&label=visistors&alt="Profile views"/>
+</p>
 <div align="center">
 
 <h2><i>☥ 𝕵𝖚𝖘𝖙𝖎𝖈𝖊 𝖜𝖎𝖑𝖑 𝖜𝖎𝖓 — 𝖇𝖚𝖙 𝖜𝖍𝖔𝖘𝖊 𝖏𝖚𝖘𝖙𝖎𝖈𝖊? ☥</i></h2>
@@ -21,6 +24,7 @@
 <p><i>☥ 𝕿𝖍𝖊 𝖓𝖆𝖒𝖊 𝖜𝖗𝖎𝖙𝖙𝖊𝖓 𝖍𝖊𝖗𝖊... 𝖘𝖍𝖆𝖑𝖑 𝖉𝖎𝖊. </i></p>
 
 </div>
+
 
 
 <!--
