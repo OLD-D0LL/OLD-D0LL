@@ -46,7 +46,7 @@ please don’t approach me if you’re under 14 or if you feel you’re not matu
 [insta](https://instagram.com/_crystalwraith.wfang) 𓏵
 [guns](https://guns.lol/katirw)𓏵
 [facebook](https://www.facebook.com/share/1HC9retqdv/)𓏵
-[own rentry](https://rentry.co/aboutmee)𓏵
+[own rentry](https://rentry.co/choijihoon)𓏵
 [duo rentry](https://rentry.co/weakherooo)𓏵
 [trio rentry](https://rentry.co/weakherocIass)𓏵
 
