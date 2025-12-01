@@ -47,6 +47,11 @@ if we ever have a misunderstanding or something that needs to be resolved, just 
 [disc](https://discord.com/_vorynth.mist) 𓏵
 [insta](https://instagram.com/_crystalwraith.wfang) 𓏵
 [guns](https://guns.lol/katirw)𓏵
+[facebook](https://www.facebook.com/share/1HC9retqdv/)𓏵
+[own rentry](https://rentry.co/aboutmee)𓏵
+[duo rentry](https://rentry.co/weakherooo)𓏵
+[trio rentry](https://rentry.co/weakheroclass)𓏵
+
 
 </div>
 
