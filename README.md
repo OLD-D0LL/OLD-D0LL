@@ -3,6 +3,10 @@
   <img src="https://komarev.com/ghpvc/?username=OLD-D0LL&color=d8c2c6&style=flat-square&label=🧸" />
 </div>
 
+
+
+
+
 <div align="center">
   <img src="https://i.postimg.cc/ZKRPKdsw/tai-xuong-(1).gif"height="5000px" alt="banner" />
     </div>
@@ -35,6 +39,17 @@ i’m actually a very easygoing person as long as you don’t do anything wrong 
 please don’t approach me if you’re under 14 or if you feel you’re not mature enough yet.
 also, please don’t start conflicts with me or my friends—it’s genuinely annoying.
 if we ever have a misunderstanding or something that needs to be resolved, just whisper… more details are on my rentry.
+</div>
+
+<div align="center">
+
+𓏵[ata](https://godcomplex/atabook.org) 𓏵
+[disc](https://discord.com/_vorynth.mist) 𓏵
+[insta](https://instagram.com/_crystalwraith.wfang) 𓏵
+[guns](https://guns.lol/katirw)𓏵
+
+</div>
+
 
 
 
