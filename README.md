@@ -50,7 +50,7 @@ if we ever have a misunderstanding or something that needs to be resolved, just 
 [facebook](https://www.facebook.com/share/1HC9retqdv/)𓏵
 [own rentry](https://rentry.co/aboutmee)𓏵
 [duo rentry](https://rentry.co/weakherooo)𓏵
-[trio rentry](https://rentry.co/weakheroclass)𓏵
+[trio rentry](https://rentry.co/weakherocIass)𓏵
 
 
 </div>
