@@ -36,9 +36,7 @@ halow, my name is katie but you can also call me tir ୨ৎ <br>
   i’m usually online on the VN1 or safe 1 server with my friends. <br>
 feel free to hug me or sit with me anytime you see me alone or afk, and whisper me if you want to interact.
 i’m actually a very easygoing person as long as you don’t do anything wrong to me, my friends or to the community.
-please don’t approach me if you’re under 14 or if you feel you’re not mature enough yet.
-also, please don’t start conflicts with me or my friends—it’s genuinely annoying.
-if we ever have a misunderstanding or something that needs to be resolved, just whisper… more details are on my rentry.
+please don’t approach me if you’re under 14 or if you feel you’re not mature enough yet… more details are on my rentry.
 </div>
 
 <div align="center">
