@@ -43,7 +43,7 @@ if we ever have a misunderstanding or something that needs to be resolved, just 
 
 <div align="center">
 
-𓏵[ata](https://godcomplex/atabook.org) 𓏵
+𓏵[ata](https://godcomplex.atabook.org) 𓏵
 [disc](https://discord.com/_vorynth.mist) 𓏵
 [insta](https://instagram.com/_crystalwraith.wfang) 𓏵
 [guns](https://guns.lol/katirw)𓏵
