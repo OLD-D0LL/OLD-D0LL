@@ -19,7 +19,7 @@
 <div align="center">
 <p style="font-family: 'Brush Script MT', cursive, sans-serif; font-size:24px; color:#ffb6c1;">
 halow, my name is katie but you can also call me tir ୨ৎ <br>
-(only close friends who’ve known me for a long time are allowed to call me bi; if we’ve just met, it wouldmake me uncomfortable.)
+(only close friends who’ve known me for a long time are allowed to call me bi; if we’ve just met, it would make me uncomfortable.)
 
 <div align="center">
   <img 
