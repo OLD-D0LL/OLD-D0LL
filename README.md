@@ -16,10 +16,6 @@
 
 
 
-<div align="center">
-<p style="font-family: 'Brush Script MT', cursive, sans-serif; font-size:24px; color:#ffb6c1;">
-halow, my name is katie but you can also call me tir ୨ৎ <br>
-(only close friends who’ve known me for a long time are allowed to call me bi; if we’ve just met, it would make me uncomfortable.)
 
 <div align="center">
   <img 
@@ -32,10 +28,8 @@ halow, my name is katie but you can also call me tir ୨ৎ <br>
 <div align="center">
   <img src="https://i.postimg.cc/7YKk0pVw/tai-xuong-(2).gif" height="50000px" alt="banner" />
 <div align="center"
-  
-  i’m usually online on the VN1 or safe 1 server with my friends. <br>
-feel free to hug me or sit with me anytime you see me alone or afk, and whisper me if you want to interact.. more details are on my rentry.
-</div>
+
+
 
 <div align="center">
 
