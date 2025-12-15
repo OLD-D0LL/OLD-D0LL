@@ -36,7 +36,7 @@
 <div align="center">
 
 ⠀ ⠀ ⠀
-[facebook](https://www.facebook.com/share/1HC9retqdv/)⠀ ⠀ ⠀ ⠀ ⠀
+ ⠀ ⠀ ⠀ ⠀
 [own rentry](https://rentry.co/park_jihoon)⠀ ⠀ ⠀ ⠀ ⠀
 [duo rentry](https://rentry.co/weakherooo)⠀ ⠀ ⠀ ⠀ ⠀
 [trio rentry](https://rentry.co/weakherocIass)⠀ ⠀ ⠀ ⠀ ⠀
