@@ -20,10 +20,10 @@
 
 
 <div align="center">
-  <img src="https://i.postimg.cc/rpnFtYTQ/jihun-cte.gif"  width="500">
+  <img src="https://i.postimg.cc/rpnFtYTQ/jihun-cte.gif"  width="400">
 </div>
 <div align="center">
-  <img src="https://i.postimg.cc/XJbxdxgW/juhun-cte.gif"  width="500">
+  <img src="https://i.postimg.cc/XJbxdxgW/juhun-cte.gif"  width="400">
 </div>
 
 
