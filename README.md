@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[ata](https://godcomlex.atabook.org)⠀ ⠀ ⠀ ⠀ ⠀
+[ata](https://godcomplex.atabook.org/)⠀ ⠀ ⠀ ⠀ ⠀
 [disc](https://discord.com/_vorynth.mist)⠀ ⠀ ⠀ ⠀ ⠀ 
 [insta](https://instagram.com/_crystalwraith.wfang) ⠀ ⠀ ⠀ ⠀ ⠀
 [guns](https://guns.lol/katirw)⠀ ⠀ ⠀ ⠀ ⠀
