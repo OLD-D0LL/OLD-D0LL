@@ -10,12 +10,9 @@
 <div align="center">
 
 [ata](https://godcomplex.atabook.org/)⠀ ⠀ ⠀ ⠀ ⠀
-[disc](https://discord.com/_vorynth.mist)⠀ ⠀ ⠀ ⠀ ⠀ 
-[insta](https://instagram.com/_crystalwraith.wfang) ⠀ ⠀ ⠀ ⠀ ⠀
 [guns](https://guns.lol/katirw)⠀ ⠀ ⠀ ⠀ ⠀
-[facebook](https://www.facebook.com/share/1HC9retqdv/)⠀ 
-</div>
-
+[duo rentry](https://rentry.co/weakherooo)⠀ ⠀ ⠀ ⠀ ⠀
+[trio rentry](https://rentry.co/weakherocIass)⠀ ⠀ ⠀ ⠀ ⠀
 
 
 
@@ -37,9 +34,6 @@
 
 ⠀ ⠀ ⠀
  ⠀ ⠀ ⠀ ⠀
-[own rentry](https://rentry.co/park_jihoon)⠀ ⠀ ⠀ ⠀ ⠀
-[duo rentry](https://rentry.co/weakherooo)⠀ ⠀ ⠀ ⠀ ⠀
-[trio rentry](https://rentry.co/weakherocIass)⠀ ⠀ ⠀ ⠀ ⠀
 
 
 </div>
