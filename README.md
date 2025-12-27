@@ -11,8 +11,7 @@
 
 [ata](https://godcomplex.atabook.org/)⠀ ⠀ ⠀ ⠀ ⠀
 [duo rentry](https://rentry.co/weakherooo)⠀ ⠀ ⠀ ⠀ ⠀
-[trio rentry](https://rentry.co/weakherocIass)⠀ ⠀ ⠀ ⠀ ⠀
-
+[trio rentry](https://rentry.co/weakherocIass)⠀
 
 
 <div align="center">
