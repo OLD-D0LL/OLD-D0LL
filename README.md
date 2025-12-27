@@ -10,7 +10,6 @@
 <div align="center">
 
 [ata](https://godcomplex.atabook.org/)⠀ ⠀ ⠀ ⠀ ⠀
-[guns](https://guns.lol/katirw)⠀ ⠀ ⠀ ⠀ ⠀
 [duo rentry](https://rentry.co/weakherooo)⠀ ⠀ ⠀ ⠀ ⠀
 [trio rentry](https://rentry.co/weakherocIass)⠀ ⠀ ⠀ ⠀ ⠀
 
