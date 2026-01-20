@@ -7,19 +7,6 @@
 
 
 
-<div align="center">
-
-[ata](https://godcomplex.atabook.org/)⠀ ⠀ ⠀ ⠀ ⠀
-[duo rentry](https://rentry.co/weakherooo)⠀ ⠀ ⠀ ⠀ ⠀
-[trio rentry](https://rentry.co/weakherocIass)⠀
-
-
-<div align="center">
-  <img src="https://i.postimg.cc/rpnFtYTQ/jihun-cte.gif"  width="400">
-</div>
-<div align="center">
-  <img src="https://i.postimg.cc/XJbxdxgW/juhun-cte.gif"  width="400">
-</div>
 
 
 
