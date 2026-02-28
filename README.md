@@ -14,7 +14,7 @@
 </p>
 <br>
 <div align="center">
-yes im cute, call me whatever u want fattie
+yes im cute, call me whatever u want (katie)
 <div/>
 <br>
 <p align="center">
