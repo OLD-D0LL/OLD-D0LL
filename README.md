@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <img src="https://i.postimg.cc/0y26DXN0/Light-Yagami-Death-Note-Art-by-IG-davin-tattoo-anime-animeicons-fanarts-retroanime-death.png" alt="my godness" width="500">
+  <img src="https://i.postimg.cc/0y26DXN0/Light-Yagami-Death-Note-Art-by-IG-davin-tattoo-anime-animeicons-fanarts-retroanime-death.png" alt="my godness" width="600">
 </p>
 
 
