@@ -5,7 +5,7 @@
 </div>
 <br>
 <div align="center">
-this world is rotten, and those who are making it rotten deserve to die.
+this world is rotten, and those who are making it rotten deserve to die
   <br>
   <br>
 <br>
