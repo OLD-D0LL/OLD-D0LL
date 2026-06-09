@@ -5,14 +5,13 @@
 </div>
 <br>
 <div align="center">
-this world is rotten, and those who are making it rotten deserve to die
+
   <br>
-  <br>
-<br>
+  
 
 <p align="center">
-  <img src="https://i.postimg.cc/0y26DXN0/Light-Yagami-Death-Note-Art-by-IG-davin-tattoo-anime-animeicons-fanarts-retroanime-death.png" alt="my godness" width="600">
-</p>
+
+<img width="600" height="281" alt="Image" src="https://github.com/user-attachments/assets/b55832b0-892e-43f7-a3a1-d337ac057316" />
 
 
 
