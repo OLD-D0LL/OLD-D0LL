@@ -3,8 +3,8 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=OLD-D0LL&color=6e0931&style=plastic-&label=kira" />
 </div>
-<br>
-<div align="center">
+
+
 
   <br>
   
