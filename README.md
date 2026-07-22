@@ -12,9 +12,11 @@
 
   
 
-<p align="left">
+<p align="center">
   <img width="55%" src="https://i.postimg.cc/25XnQrFB/tai-xuong-3-removebg-preview-(1).png">
- 
+
+ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 </p>
 
 
