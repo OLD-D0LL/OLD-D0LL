@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=OLD-D0LL&color=00d581&style=plastic-&label=kira" />
+  <img src="https://komarev.com/ghpvc/?username=OLD-D0LL&color=B5EAD7&style=plastic-&label=kira" />
 </div>
 <p align="center">
   <img width="20%"  alt="Image" src="https://github.com/user-attachments/assets/39975739-aaf5-4ffa-984e-ba08d5dc85be" />
@@ -11,12 +11,6 @@
 
   
 
-<p align="center">
-  <img width="55%" src="https://i.postimg.cc/25XnQrFB/tai-xuong-3-removebg-preview-(1).png">
-
- ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
- ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-</p>
 
 
 
