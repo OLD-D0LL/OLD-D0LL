@@ -7,7 +7,7 @@
   
 
 <p align="left">
-  <img width="48%" src="https://i.postimg.cc/25XnQrFB/tai-xuong-3-removebg-preview-(1).png">
+  <img width="55%" src="https://i.postimg.cc/25XnQrFB/tai-xuong-3-removebg-preview-(1).png">
   <img width="40%" scr="https://i.postimg.cc/63CZZRHN/image.jpg">
 </p>
 
