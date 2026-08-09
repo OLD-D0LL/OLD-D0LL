@@ -10,7 +10,7 @@
 <a href="https://rentry.co/shseheart/">
   <img src="https://i.postimg.cc/Qt144Ndq/e741e39db10630586917-removebg-preview.png" width="60" alt="duorentry" />
 </a> 
-<a href="https://rentry.co/weakheroclass/">
+<a href="https://rentry.co/weakherocIass/">
   <img src="https://i.postimg.cc/FRyNQ4KX/tai-xuong-2-removebg-preview.png" width="100" alt="triorentry" />
 </a>
 <a href="https://itooshii.lol/ztir/">
