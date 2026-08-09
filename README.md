@@ -5,9 +5,23 @@
 </div>
 
 <a href="https://keifyr.atabook.org/">
-  <img src="https://i.postimg.cc/VLsHY8Nb/S-removebg-preview.png" width="100" alt="atabook" />
+  <img src="https://i.postimg.cc/prdWQSPs/7996dd338ba80af653b9-removebg-preview.png" width="80" alt="atabook" />
 </a>
-
+<a href="https://rentry.co/shseheart/">
+  <img src="https://i.postimg.cc/Qt144Ndq/e741e39db10630586917-removebg-preview.png" width="60" alt="duorentry" />
+</a> 
+<a href="https://rentry.co/weakheroclass/">
+  <img src="https://i.postimg.cc/FRyNQ4KX/tai-xuong-2-removebg-preview.png" width="100" alt="triorentry" />
+</a>
+<a href="https://itooshii.lol/ztir/">
+  <img src="https://i.postimg.cc/KjV2PvqT/2742c76b90f011ae48e1-removebg-preview.png" width="90" alt="itooshii" />
+</a>
+<a href="https://guns.lol/unsaidthings/">
+  <img src="https://i.postimg.cc/m2bXjsf1/4f4e19154a8ecbd0929f-removebg-preview.png" width="90" alt="guns" />
+</a>
+<a href="https://photos.app.goo.gl/agVMCdjf3hN677jE9"/>
+  <img src="https://i.postimg.cc/nhf8pWNP/02f3ed9cba073b596216-removebg-preview.png" width="60" alt="katieandfriends" />
+</a>
 <p align="center">
   <img width="20%"  alt="Image" src="https://github.com/user-attachments/assets/39975739-aaf5-4ffa-984e-ba08d5dc85be" />
   <img width="15%"  alt="Image" src="https://github.com/user-attachments/assets/331c1e02-a6c1-406c-8621-9a857132979f" />
