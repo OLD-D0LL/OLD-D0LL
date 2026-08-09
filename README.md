@@ -28,8 +28,8 @@
 <a href="https://www.instagram.com/_crystalwraith.wfang/"/>
   <img src="https://i.postimg.cc/9XvTXPbL/652a9804c69f47c11e8e-removebg-preview.png" width="70" alt="insta" />
 </a>
-<a href=""/>
-  <img src="https://i.postimg.cc/DzHfQ6SW/88a5c0a79e3c1f62462d-removebg-preview.png" width="70" alt="facebook" />
+<a href="https://github.com/HOMESlCK"/>
+  <img src="https://i.postimg.cc/DzHfQ6SW/88a5c0a79e3c1f62462d-removebg-preview.png" width="70" alt="bestfriend" />
 </a>
 <p align="center">
   <img width="20%"  alt="Image" src="https://github.com/user-attachments/assets/39975739-aaf5-4ffa-984e-ba08d5dc85be" />
