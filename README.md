@@ -29,6 +29,9 @@
   <img src="https://i.postimg.cc/9XvTXPbL/652a9804c69f47c11e8e-removebg-preview.png" width="70" alt="insta" />
 </a>
 <a href="https://github.com/HOMESlCK"/>
+  <img src="https://i.postimg.cc/mZNRhByH/04893e5f68c4e99ab0d5-removebg-preview.png" width="50" alt="bestfriend" />
+</a>
+<a href="https://github.com/friartie"/>
   <img src="https://i.postimg.cc/DzHfQ6SW/88a5c0a79e3c1f62462d-removebg-preview.png" width="70" alt="bestfriend" />
 </a>
 <p align="center">
