@@ -3,8 +3,9 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=OLD-D0LL&color=B5EAD7&style=plastic-&label=babies✦" />
 </div>
+
 <a href="https://keifyr.atabook.org/">
-  <img src="https://i.postimg.cc/VLsHY8Nb/S-removebg-preview.png" alt="atabook" />
+  <img src="https://i.postimg.cc/VLsHY8Nb/S-removebg-preview.png" width="100" alt="atabook" />
 </a>
 
 <p align="center">
