@@ -18,7 +18,7 @@
 <a href="https://itooshii.lol/ztir/">
   <img src="https://i.postimg.cc/KjV2PvqT/2742c76b90f011ae48e1-removebg-preview.png" width="50" alt="itooshii" />
 </a>
-<a href="https://guns.lol/unsaidthings/">
+<a href="https://guns.lol/40seconds/">
   <img src="https://i.postimg.cc/m2bXjsf1/4f4e19154a8ecbd0929f-removebg-preview.png" width="60" alt="guns" />
 </a>
 <a href="https://photos.app.goo.gl/agVMCdjf3hN677jE9"/>
