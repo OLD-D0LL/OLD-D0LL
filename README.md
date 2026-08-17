@@ -15,7 +15,7 @@
 <a href="https://rentry.co/weakherocIass/">
   <img src="https://i.postimg.cc/FRyNQ4KX/tai-xuong-2-removebg-preview.png" width="70" alt="triorentry" />
 </a>
-<a href="https://itooshii.lol/ztir/">
+<a href="https://zyo.lol/senpaizonee/">
   <img src="https://i.postimg.cc/KjV2PvqT/2742c76b90f011ae48e1-removebg-preview.png" width="50" alt="itooshii" />
 </a>
 <a href="https://guns.lol/40seconds./">
