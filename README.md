@@ -25,16 +25,16 @@
   <img src="https://i.postimg.cc/nhf8pWNP/02f3ed9cba073b596216-removebg-preview.png" width="40" alt="katieandfriends" />
 </a>
 
-<a href="https://www.tiktok.com/@me.splintered"/>
+<a href=""/>
   <img src="https://i.postimg.cc/W10d1Qz6/67152a2074bbf5e5acaa-removebg-preview-(1).png" width="70" alt="" />
 </a>
-<a href="https://www.instagram.com/_crystalwraith.wfang/"/>
+<a href=""/>
   <img src="https://i.postimg.cc/9XvTXPbL/652a9804c69f47c11e8e-removebg-preview.png" width="60" alt="insta" />
 </a>
-<a href="https://github.com/HOMESlCK"/>
+<a href=""/>
   <img src="https://i.postimg.cc/mZNRhByH/04893e5f68c4e99ab0d5-removebg-preview.png" width="30" alt="bestfriend" />
 </a>
-<a href="https://github.com/friartie"/>
+<a href=""/>
   <img src="https://i.postimg.cc/DzHfQ6SW/88a5c0a79e3c1f62462d-removebg-preview.png" width="60" alt="bestfriend" />
 </a>
 </div>
