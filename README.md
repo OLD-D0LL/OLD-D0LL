@@ -9,19 +9,19 @@
 <a href="https://keifyr.atabook.org/">
   <img src="https://i.postimg.cc/prdWQSPs/7996dd338ba80af653b9-removebg-preview.png" width="50" alt="atabook" />
 </a>
-<a href="https://rentry.co/shseheart/">
+<a href="https://itooshii.lol/mastermin">
   <img src="https://i.postimg.cc/Qt144Ndq/e741e39db10630586917-removebg-preview.png" width="30" alt="duorentry" />
 </a> 
-<a href="https://rentry.co/weakherocIass/">
+<a href="https://guns.lol/40seconds./">
   <img src="https://i.postimg.cc/FRyNQ4KX/tai-xuong-2-removebg-preview.png" width="70" alt="triorentry" />
 </a>
-<a href="https://itooshii.lol/mastermind">
+<a href="https://photos.app.goo.gl/agVMCdjf3hN677jE9">
   <img src="https://i.postimg.cc/KjV2PvqT/2742c76b90f011ae48e1-removebg-preview.png" width="50" alt="itooshii" />
 </a>
-<a href="https://guns.lol/40seconds./">
+<a href="">
   <img src="https://i.postimg.cc/m2bXjsf1/4f4e19154a8ecbd0929f-removebg-preview.png" width="60" alt="guns" />
 </a>
-<a href="https://photos.app.goo.gl/agVMCdjf3hN677jE9"/>
+<a href=""/>
   <img src="https://i.postimg.cc/nhf8pWNP/02f3ed9cba073b596216-removebg-preview.png" width="40" alt="katieandfriends" />
 </a>
 
