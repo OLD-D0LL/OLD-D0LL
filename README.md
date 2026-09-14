@@ -9,7 +9,7 @@
 <a href="https://keifyr.atabook.org/">
   <img src="https://i.postimg.cc/prdWQSPs/7996dd338ba80af653b9-removebg-preview.png" width="50" alt="atabook" />
 </a>
-<a href="https://itooshii.lol/mastermin">
+<a href="https://itooshii.lol/mastermind">
   <img src="https://i.postimg.cc/Qt144Ndq/e741e39db10630586917-removebg-preview.png" width="30" alt="duorentry" />
 </a> 
 <a href="https://guns.lol/40seconds./">
